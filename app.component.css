@@ -1,0 +1,16 @@
+#main{
+    background: url("../assets/wallpaper_home1.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover; 
+    position: absolute;
+      width: 100%;
+      height: 100%;
+}
+/* .heading-element{
+    color:white;
+
+}
+.text-element{
+    color: white;
+} */
